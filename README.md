@@ -1,9 +1,9 @@
 # diceGame
 https://shank0071.github.io/diceGame/
 
---> This is a dice game which composes of two players.
+This is a dice game which composes of two players.
 
---> Every time you refresh the page, two random dice roll are generated.
+Every time you refresh the page, two random dice roll are generated.
 
 --> The Player who has got the largest number wins.
 
